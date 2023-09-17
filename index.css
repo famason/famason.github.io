@@ -2,13 +2,9 @@
   margin: 0;
   padding: 0;
 }
-.main{
-  width: 100%;
+body{
   background-image: url("https://img.freepik.com/free-vector/ocean-lettering-undersea_603843-3851.jpg?w=826&t=st=1694939656~exp=1694940256~hmac=0984f35bd218c8c1e1e7879da180bccef4f5c8e7066695d2446ec1d79a1eee1f");
-  background-position: center;
-  background-size: cover;
-  height: 100vh;
-  font-family: sans-serif;
+  background-color: #cccccc;
 }
 .navbar{
   width: 95%;
