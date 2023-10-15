@@ -156,3 +156,8 @@ h3{
     flex-direction: column;
   }
 }
+.sub-header{
+  height: 50vh;
+  width: 100%;
+  color: #fff;
+}
