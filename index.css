@@ -112,3 +112,9 @@ nav .fa{
     padding: 30px;
   }
 }
+.aspect{
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding-top: 100px;
+}
