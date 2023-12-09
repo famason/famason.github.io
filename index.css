@@ -188,7 +188,7 @@ h3{
   overflow: hidden;
 }
 .flora-col img{
-  width: 100%
+  width: 100vh;
 }
 .layer{
   background: transparent;
