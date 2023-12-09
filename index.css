@@ -156,6 +156,19 @@ h3{
     flex-direction: column;
   }
 }
+.flora{
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding-top: 50px;
+}
+.flora-col{
+  flex-basis: 32%
+  border-radius: 10px;
+  margin-bottom: 30px;
+  position: relative;
+  overflow: hidden;
+}
 .sub-header{
   height: 50vh;
   width: 100%;
