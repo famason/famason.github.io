@@ -199,7 +199,7 @@ h3{
   height: 0;
   transition: 0.5s ease;
 }
-.text-block:hover .text-block{
+.flora-container:hover .text-block{
   bottom: 0;
   height: 100%;
 }
