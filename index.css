@@ -112,6 +112,24 @@ nav .fa{
     padding: 30px;
   }
 }
+.aspect{
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding-top: 100px;
+}
+.aspect-col{
+  flex-basis: 31%;
+  background: #cff5ff;
+  border-radius: 10px;
+  margin-bottom: 5%;
+  padding: 20px 12px;
+  box-sizing: border-box;
+  transition: 0.5s;
+}
+.aspect-col:hover{
+  box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
+}
 .fauna{
   width: 80%;
   margin: auto;
