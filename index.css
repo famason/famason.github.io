@@ -112,7 +112,7 @@ nav .fa{
     padding: 30px;
   }
 }
-.aspect{
+.fauna{
   width: 80%;
   margin: auto;
   text-align: center;
@@ -134,7 +134,7 @@ p{
   display: flex;
   justify-content: space-between;
 }
-.aspect-col{
+.fauna-col{
   flex-basis: 31%;
   background: #fff3f3;
   border-radius: 10px;
@@ -148,7 +148,7 @@ h3{
   font-weight: 600;
   margin: 10px 0;
 }
-.aspect-col:hover{
+.fauna-col:hover{
   box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
 }
 @media(max-width: 700px){
