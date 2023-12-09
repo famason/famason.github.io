@@ -204,9 +204,10 @@ h3{
   width: 100%;
 }
 .text-block-table{
+  width: 100%;
   white-space: nowrap;
   color: white;
-  position: center;
+  position: absolute;
   overflow: hidden;
   top: 50%;
   left: 50%;
