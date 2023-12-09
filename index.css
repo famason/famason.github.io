@@ -180,6 +180,18 @@ h3{
   text-align: center;
   padding-top: 50px;
 }
+.flora-container{
+  position: relative;
+}
+.text-block{
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: black;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
 .flora-col{
   flex-basis: 32%
   border-radius: 10px;
@@ -188,7 +200,7 @@ h3{
   overflow: hidden;
 }
 .flora-col img{
-  width: 100vh;
+  width: 100%;
 }
 .layer{
   background: transparent;
