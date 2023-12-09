@@ -169,6 +169,17 @@ h3{
   position: relative;
   overflow: hidden;
 }
+.flora-col img{
+  width: 100%
+}
+.layer{
+  background: rgba(60,179,113,0.7);
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
 .sub-header{
   height: 50vh;
   width: 100%;
