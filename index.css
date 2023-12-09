@@ -189,6 +189,7 @@ h3{
 }
 .flora-col img{
   width: 100%
+  border-radius: 10px;
 }
 .layer{
   background: transparent;
