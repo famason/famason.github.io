@@ -177,6 +177,9 @@ h3{
 .text-box-flora{
   margin-top: 100px;
 }
+.text-box-flora h1{
+  font-size: 35px;
+}
 .flora{
   width: 80%;
   margin: auto;
