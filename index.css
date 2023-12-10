@@ -340,3 +340,12 @@ h3{
   margin-top: 20px;
   font-weight: 600;
 }
+.icons .fa{
+  color: #2FE3FF;
+  margin: 0 13px;
+  cursor: pointer;
+  padding: 18px 0;
+}
+.fa-heart-o{
+  color: #2FE3FF;
+}
