@@ -156,6 +156,7 @@ p{
   justify-content: space-between;
 }
 .row2{
+  flex-basis: 31%;
   display: flex;
   justify-content: space-between;
 }
@@ -185,7 +186,6 @@ h3{
   height: 550px;
   object-fit: cover;
   border-radius: 10px;
-  margin-right: auto;
   margin-bottom: 10%;
 }
 .over-lay{
@@ -200,7 +200,6 @@ h3{
   transition: 0.5s ease;
   background-color: black;
   border-radius: 10px;
-  margin-right: auto;
   margin-bottom: 10%;
 }
 .fauna-text{
