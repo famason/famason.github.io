@@ -177,6 +177,7 @@ h3{
   box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
 }
 .fauna-container{
+  flex-basis: 31%;
   position: relative;
   width: 50%;
 }
