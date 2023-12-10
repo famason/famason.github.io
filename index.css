@@ -420,3 +420,22 @@ h3{
   outline: none;
   border: 1px solid #ccc;
 }
+.text-table{
+  white-space: nowrap;
+  color: white;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform:  translate(-50%, -50%);
+}
+.text-table{
+  border-collapse: collapse;
+  width: 100%;
+}
+.text-table th, td{
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
