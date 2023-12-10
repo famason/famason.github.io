@@ -245,7 +245,7 @@ h3{
   height: 100%;
   transition: 0.5s ease;
 }
-.fauna-container:hover .overlay{
+.fauna-container:hover .over-lay{
   width: 100%;
 }
 .flora-container:hover .overlay{
