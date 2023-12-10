@@ -158,8 +158,6 @@ p{
 .row2{
   display: flex;
   justify-content: space-between;
-  margin-right: auto;
-  margin-bottom: 10%;
 }
 .fauna-col{
   flex-basis: 31%;
@@ -187,6 +185,8 @@ h3{
   height: 550px;
   object-fit: cover;
   border-radius: 10px;
+  margin-right: auto;
+  margin-bottom: 10%;
 }
 .over-lay{
   position: absolute;
@@ -200,6 +200,8 @@ h3{
   transition: 0.5s ease;
   background-color: black;
   border-radius: 10px;
+  margin-right: auto;
+  margin-bottom: 10%;
 }
 .fauna-text{
   white-space: nowrap;
