@@ -172,6 +172,26 @@ h3{
 .fauna-col:hover{
   box-shadow: 0 0 20px 0px rgba(0,0,0,0.2);
 }
+.fauna-container{
+  position: relative;
+  width: 50%;
+}
+.fauna-image{
+  display: block;
+  width: 300px;
+  height: 800px;
+  object-fit: cover;
+}
+.fauna-text{
+  white-space: nowrap;
+  color: white;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform:  translate(-50%, -50%);
+}
 @media(max-width: 700px){
   .row{
     flex-direction: column;
