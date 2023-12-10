@@ -212,23 +212,6 @@ h3{
   left: 50%;
   transform: translate(-50%, -50%);
 }
-.fauna-text-2{
-  white-space: nowrap;
-  color: white;
-  position: absolute;
-  overflow: hidden;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-.fauna-text-2 th{
-  text-align: center;
-  border-bottom: 1px solid #fff;
-}
-.fauna-text-2 td{
-  text-align: left;
-  border-bottom: 1px solid #fff;
-}
 @media(max-width: 700px){
   .row{
     flex-direction: column;
