@@ -156,7 +156,6 @@ p{
   justify-content: space-between;
 }
 .row2{
-  flex-basis: 31%;
   display: flex;
   justify-content: space-between;
 }
@@ -187,6 +186,7 @@ h3{
   object-fit: cover;
   border-radius: 10px;
   margin-bottom: 10%;
+  margin-right: 20%;
 }
 .over-lay{
   position: absolute;
@@ -201,6 +201,7 @@ h3{
   background-color: black;
   border-radius: 10px;
   margin-bottom: 10%;
+  margin-right: 20%;
 }
 .fauna-text{
   white-space: nowrap;
