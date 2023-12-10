@@ -349,3 +349,16 @@ h3{
 .fa-heart-o{
   color: #2FE3FF;
 }
+.about-us{
+  width: 80%;
+  margin:  auto;
+  padding-top: 80px;
+  padding-bottom: 50px;
+}
+.about-col{
+  flex-basis: 48%;
+  padding: 30px 2px;
+}
+.about-col img{
+  width: 100%;
+}
