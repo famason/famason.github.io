@@ -363,3 +363,9 @@ h3{
   width: 80%;
   object-fit: cover;
 }
+.about-col h1{
+  padding-top: 0;
+}
+.about-col p{
+  padding: 15px 0 25px;
+}
