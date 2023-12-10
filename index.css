@@ -174,6 +174,23 @@ h3{
     flex-direction: column;
   }
 }
+.text-box-flora{
+  width: 90%;
+  color: #fff;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.text-box-flora h1{
+  font-size: 62px;
+}
+.text-box-flora p{
+  margin: 10px 0 20px;
+  font-size: 14px;
+  color: #fff;
+}
 .flora{
   width: 80%;
   margin: auto;
