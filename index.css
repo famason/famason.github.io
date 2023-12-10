@@ -178,7 +178,7 @@ h3{
 }
 .fauna-image{
   display: block;
-  width: 463px;
+  width: 465px;
   height: 550px;
   object-fit: cover;
   border-radius: 10px;
@@ -246,7 +246,7 @@ h3{
   transition: 0.5s ease;
 }
 .fauna-container:hover .over-lay{
-  width: 100%;
+  opacity: 1;
 }
 .flora-container:hover .overlay{
   width: 100%;
