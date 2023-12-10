@@ -369,3 +369,11 @@ h3{
 .about-col p{
   padding: 15px 0 25px;
 }
+.blue-btn{
+  border: 1px solid ##2FE3FF;
+  background: transparent;
+  color: #2FE3FF;
+}
+.blue-btn:hover{
+  color: #fff;
+}
