@@ -178,9 +178,11 @@ h3{
 }
 .fauna-image{
   display: block;
-  width: 425px;
+  width: 450px;
   height: 550px;
   object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 10%;
 }
 .fauna-text{
   white-space: nowrap;
