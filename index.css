@@ -175,21 +175,7 @@ h3{
   }
 }
 .text-box-flora{
-  width: 45%;
-  color: #fff;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  text-align: center;
-}
-.text-box-flora h1{
-  font-size: 50px;
-}
-.text-box-flora p{
-  margin: 10px 0 20px;
-  font-size: 14px;
-  color: #fff;
+  margin-top: 100px;
 }
 .flora{
   width: 80%;
@@ -231,28 +217,6 @@ h3{
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform:  translate(-50%, -50%);
-}
-.flora-col{
-  flex-basis: 32%
-  border-radius: 10px;
-  margin-bottom: 30px;
-  position: relative;
-  overflow: hidden;
-}
-.flora-col img{
-  width: 100%;
-}
-.layer{
-  background: transparent;
-  height: 100%;
-  width: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  transition: 0.5s;
-}
-.layer:hover{
-  background: rgba(60,179,113,0.7);
 }
 .sub-header{
   height: 50vh;
