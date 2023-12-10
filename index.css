@@ -189,7 +189,7 @@ h3{
   margin-bottom: 10%;
 }
 .over-lay{
-  position: absolute;
+  position: relative;
   top: 0;
   bottom: 0;
   left: 0;
