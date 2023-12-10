@@ -177,7 +177,7 @@ h3{
   width: 50%;
 }
 .fauna-image{
-  display: block;
+  display: flex;
   width: 465px;
   height: 550px;
   object-fit: cover;
@@ -186,6 +186,7 @@ h3{
   margin-right: 10%;
 }
 .over-lay{
+  display: flex;
   position: absolute;
   top: 0;
   bottom: 0;
