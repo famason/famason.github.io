@@ -186,7 +186,7 @@ h3{
   object-fit: cover;
   border-radius: 10px;
   margin-bottom: 10%;
-  margin-right: 20%;
+  flex-basis: 20%;
 }
 .over-lay{
   position: absolute;
@@ -201,7 +201,7 @@ h3{
   background-color: black;
   border-radius: 10px;
   margin-bottom: 10%;
-  margin-right: 20%;
+  flex-basis: 20%;
 }
 .fauna-text{
   white-space: nowrap;
