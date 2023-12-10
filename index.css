@@ -183,6 +183,7 @@ h3{
   object-fit: cover;
   border-radius: 10px;
   margin-bottom: 10%;
+  margin-right: 10%;
 }
 .over-lay{
   position: absolute;
@@ -203,7 +204,7 @@ h3{
   position: absolute;
   overflow: hidden;
   top: 50%;
-  left: 50%;
+  left: 33%;
   transform: translate(-50%, -50%);
   -ms-transform:  translate(-50%, -50%);
 }
